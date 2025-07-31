@@ -11,19 +11,4 @@ This project performs Optical Character Recognition (OCR) on Indonesian vehicle 
 - 📊 Evaluates performance using CER (Character Error Rate)
 - 🖼️ Supports batch processing of images in a directory
 
----
 
-## 🧰 Requirements
-
-- Python 3.8+
-- Jupyter Notebook
-- Required packages:
-  - `Levenshtein`
-  - `pandas`
-  - `lmstudio`
-  - `os`
-  - `icecream-python`
-
-Install required packages:
-```bash
-pip install requests pillow matplotlib scikit-learn
