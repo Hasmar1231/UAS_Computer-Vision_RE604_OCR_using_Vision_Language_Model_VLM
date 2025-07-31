@@ -4,7 +4,7 @@ This project performs Optical Character Recognition (OCR) on Indonesian vehicle 
 
 ---
 
-## 📌 Features
+## Features
 
 - 🔍 Performs OCR on vehicle license plates using VLM
 - 🤖 Integrates with LM Studio via API calls
